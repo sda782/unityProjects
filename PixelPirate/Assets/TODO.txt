@@ -1,0 +1,28 @@
+#   TODO LIST   #
+ - Mobs
+ - Items
+ - Chests and loot
+ - Crafting System
+
+
+#   Chest / Loot System    #
+ - Chest spawn in random chunk
+ - Follow an indicator to get it
+
+
+#   Mobs    #
+ - Basic slimes
+ - Mob animations
+ - Drops materials
+
+
+#   Item System    #
+ - Materials goes into a bag
+ - Weapons equiped in hotbar
+ - Armor equiped in armor slot in hotbar
+
+
+#   Crafting System    #
+ - Center chunk always contain a crafting station
+ - Stand near it and press "C"
+ - Basically Terraria crafting
